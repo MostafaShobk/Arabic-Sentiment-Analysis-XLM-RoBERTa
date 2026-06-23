@@ -1,0 +1,15 @@
+
+
+file:
+  path: docs/microblogging.xlsx
+  columnName: Text
+
+clean_data: 0
+
+# analyzing_model: CAMeL-Lab/bert-base-arabic-camelbert-da-sentiment # Arabic https://huggingface.co/CAMeL-Lab/bert-base-arabic-camelbert-da-sentiment
+# analyzing_model: cardiffnlp/twitter-roberta-base-sentiment # English https://huggingface.co/cardiffnlp/twitter-xlm-roberta-base-sentiment
+analyzing_model: cardiffnlp/twitter-xlm-roberta-base-sentiment # MultiLang https://huggingface.co/cardiffnlp/twitter-xlm-roberta-base-sentiment/blob/main/config.json
+
+
+
+

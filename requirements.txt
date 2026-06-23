@@ -1,0 +1,11 @@
+pandas
+numpy
+transformers
+torch
+scipy
+tqdm
+openpyxl
+pyarabic
+pyyaml
+sentencepiece
+tensorflow
