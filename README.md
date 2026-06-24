@@ -3,7 +3,9 @@
 Sentiment Analyzer is a powerful, end-to-end engineered system designed for deep sentiment analysis and predictive trend forecasting on customer data, social media content, and time-series data. It features an interactive analytical dashboard and automated official report generation tailored for decision-makers.
 
 ---
+▶️ **[شاهد فيديو استعراض النظام على إنستغرام | Watch the Demo Video on Instagram](https://www.instagram.com/reel/DZ99zrQtpMi/?igsh=N2RsMmt4MTdtdHRv)
 
+---
 ## 🚀 Key Implementation Features
 * **Unified Python Ecosystem:** Seamlessly integrates Deep Learning backend frameworks with analytical capabilities.
 * **Multilingual AI Backed:** Driven by state-of-the-art architectures (**XLM-RoBERTa**, CAMeL-BERT) optimizing cross-lingual contextual understanding for mixed Arabic/English social media dialects.
